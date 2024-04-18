@@ -16,6 +16,7 @@
 <h4 align="left">I am a Novice Developer from Indonesia :indonesia: and I'm still at school now </h4>
 <p align="left">
  <p align="left">- I'm Student right now 🔥</p>
+ <p align="left">- I feel confident in presenting but am still learning when working on projects </p>
   <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr7dYvgITz0AtGBekZ6zmTUzadmqtRhASYo26DYvq0Hg&s"  />
 </p>
 
