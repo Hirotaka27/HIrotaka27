@@ -1,16 +1,16 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
      <div id="badges">
-  <a href="mailto:ibnuljefry99@gmail.com">
+  <a href="mailto:satriachandrapamungkas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.instagram.com/ibnuljefry99/">
+  <a href="https://www.instagram.com/hirotaka___27/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
   </a>
 </div>
   
 <h3 align="center">Hello Everyone , There Satria Chandra Pamungkas <img   src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Keychan2725&row=1&no-frame=true&margin-w=15&theme=discord" alt="Keychan2725" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hirotaka27&row=1&no-frame=true&margin-w=15&theme=discord" alt="Hirotaka27" /></a></p>
 
 <h4 align="left">:man_technologist: About Me :</h4>
 <h4 align="left">I am a Novice Developer from Indonesia :indonesia: and I'm still at school now </h4>
@@ -44,9 +44,9 @@
 <div align="left">
   
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Keychan2725&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hirotaka27&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keychan2725&layout=compact&theme=vision-friendly-dark)](https://github.com/Keychan2725/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirotaka27&layout=compact&theme=vision-friendly-dark)](https://github.com/Keychan2725/github-readme-stats)
 
 ---
 </div>
