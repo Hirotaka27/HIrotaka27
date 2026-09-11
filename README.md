@@ -13,7 +13,6 @@
 </div>
   
 <h3 align="center">Hello everyone! I'm Satria Chandra Pamungkas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hirotaka27&row=1&no-frame=true&margin-w=15&theme=discord" alt="Hirotaka27" /></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Junior+Software+Engineering;Passionate+about+Web+%26+App+Development;Always+Learning+and+Growing!" alt="Typing SVG" />
